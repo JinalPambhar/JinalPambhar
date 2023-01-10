@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 <!--
-**JinalPambhar/JinalPambhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Welcome to my GitHub Profile!
+
+- My name is Jinal and I am a React.js developer. I am passionate about building web applications that are user-friendly and performant. I have experience working with different libraries and frameworks that are commonly used in React development, such as Redux, React Router, and Axios.
+
+- 🌱 I’m currently learning Nodejs.
+
+- 💬 Ask me about Reactjs
+
+- - ⚡ Fun fact: I'm also learning blockchain and going to be fullstake blockchain developer.
+
+- Thank you for visiting my GitHub profile!
