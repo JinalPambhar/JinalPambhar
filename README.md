@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about Reactjs
 
-- - ⚡ Fun fact: I'm also learning blockchain and going to be fullstake blockchain developer.
+- ⚡ Fun fact: I'm also learning blockchain and going to be fullstake blockchain developer.
 
 - Thank you for visiting my GitHub profile!
